@@ -3,4 +3,4 @@
 print("Hello world.")
 
 # add your code here
-print("Hello hamamatu")
+print("Hello Hamamatu")
